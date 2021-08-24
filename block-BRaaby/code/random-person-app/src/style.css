@@ -1,0 +1,36 @@
+.main-div {
+    height: 100vh;
+    position: relative;
+  }
+
+  header {
+    height: 50vh;
+    background-color: rgba(0, 0, 0, 0.753);
+  }
+  main {
+    height: 50vh;
+    background-color: #eceff7;
+  }
+  article {
+    background-color: white;
+    height: 25rem;
+    width: 40%;
+    height: 70vh;
+    position: absolute;
+    top: 25%;
+    left: 30%;
+  }
+
+  .top {
+    height: 35%;
+    background-color: #eceff7;
+    position: relative;
+  }
+
+  .buttons i:hover {
+    color: rgb(89, 89, 196);
+  }
+
+  .active {
+      color: aqua;
+  }
